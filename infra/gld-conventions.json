@@ -1,0 +1,26 @@
+{
+  "name": "gld-conventions",
+  "description": "Legal research convention lock management",
+  "version": "0.1.0",
+  "transport": "stdio",
+  "module": "gld.mcp.conventions_server",
+  "capabilities": [
+    "convention_set",
+    "convention_check",
+    "convention_diff",
+    "convention_list",
+    "convention_describe"
+  ],
+  "fields": [
+    "jurisdiction",
+    "governing_law",
+    "standard_of_review",
+    "burden_of_proof",
+    "citation_format",
+    "procedural_posture",
+    "cause_of_action",
+    "statute_of_limitations",
+    "damages_theory",
+    "key_definitions"
+  ]
+}
