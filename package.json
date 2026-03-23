@@ -1,0 +1,26 @@
+{
+  "name": "get-legal-done",
+  "version": "0.1.0",
+  "description": "AI copilot for autonomous legal research and brief writing",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JesseRWeigel/get-legal-done"
+  },
+  "bin": {
+    "get-legal-done": "bin/install.js"
+  },
+  "files": [
+    "bin/"
+  ],
+  "keywords": [
+    "legal",
+    "research",
+    "brief-writing",
+    "ai",
+    "research",
+    "autonomous",
+    "claude-code",
+    "mcp"
+  ]
+}
